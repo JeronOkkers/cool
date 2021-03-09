@@ -1,0 +1,13 @@
+	div {
+    font-family: 'Old Standard TT', serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.211538461538462;
+    letter-spacing: 0.45em;
+    padding: 30px 30px;
+    box-sizing: inherit;
+    background-image: linear-gradient(
+164deg
+, #f4b2d3, #b69fce);
+    width: 900pc 900px;
+}
